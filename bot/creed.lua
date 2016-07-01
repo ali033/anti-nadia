@@ -243,12 +243,12 @@ function create_config( )
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by : ali_kmv
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
+   ߔࠀ   @ali_kmv
+   ߔࠀ   @ali_kmv
+   ߔࠀ   @Kiarash788
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
